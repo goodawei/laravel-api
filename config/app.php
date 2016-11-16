@@ -181,6 +181,8 @@ return [
         Dingo\Api\Provider\LaravelServiceProvider::class,
 
         Tymon\JWTAuth\Providers\JWTAuthServiceProvider::class,
+
+        Clockwork\Support\Laravel\ClockworkServiceProvider::class
     ],
 
     /*

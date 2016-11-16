@@ -1,4 +1,25 @@
-# laravel 练习项目
+# dingo api , jwt
+
+# 使用 Clockwork 来调试 Laravel App
+
+参考 https://laravel-china.org/topics/23
+
+    http://www.jianshu.com/p/1489d8425bad
+
+### 安装chrome插件部分
+
+Chrome 插件 Clockwork
+https://chrome.google.com/webstore/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp
+
+### 安装Laravel部分
+https://github.com/itsgoingd/clockwork
+
+```php
+    "require-dev": {
+        "itsgoingd/clockwork": "~1.12"
+    },
+```
+
 
 ### laravel 路由：
 
